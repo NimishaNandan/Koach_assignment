@@ -1,0 +1,4 @@
+CREATE DB[AMAZON]GO use[AMAZON]GO
+CREATE TABLE[dbo].[Product details][Seller]
+Varchar NULL,[Seller Address]Varchar NULL,
+[Description]Varchar NULL,[Colour]Varchar NULL
